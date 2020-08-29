@@ -1,7 +1,7 @@
 # Bangood-N76E003AT20-51-Development-Board
 OLED driver and test for the Bangood N76E003AT20 51 Development Board (Nuvoton 8051 family processor)
 
-This is a work in progress project to port a SPI OLED graphics library to this development board. The code is ported from code written for Keil to the sdcc compilier.
+This is a work in progress project to port an I2C OLED graphics library to this development board and add an SPI driver. The code is ported from code written for Keil to the sdcc compilier.
 
 Currentally the code is rough around the edges and not all of the OLED graphics driver has been ported to sdcc. But it works well enough to test the OLED display on the development board.
 
