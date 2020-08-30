@@ -1,4 +1,4 @@
-# Oled Display Driver - Banggood-N76E003AT20-51-Development-Board
+# OLED Display Driver - Banggood-N76E003AT20-51-Development-Board
 OLED driver and test for the Banggood N76E003AT20 51 Development Board (Nuvoton 8051 family processor)
 
 This is a work in progress project to port an I2C OLED graphics library to this development board and add an SPI driver. The code is ported from code written for Keil to the sdcc compilier.
